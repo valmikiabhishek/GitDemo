@@ -28,6 +28,17 @@ public class demo1 {
 		System.out.println("sdfsdfsfsf");
 	}
 	
+	public void f3()
+	{
+		System.out.println("sdfsdfsfsf");
+		System.out.println("sdfsdfsfsf");
+	}
+	
+	public void f4()
+	{
+		System.out.println("sdfsdfsfsf");
+		System.out.println("sdfsdfsfsf");
+	}
 	
 	
 }
