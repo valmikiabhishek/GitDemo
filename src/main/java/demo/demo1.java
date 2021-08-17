@@ -16,4 +16,18 @@ public class demo1 {
 		System.out.println(a+b +"sdfsdfsfsf");
 	}
 
+	public void f1()
+	{
+		System.out.println("sdfsdfsfsf");
+		System.out.println("sdfsdfsfsf");
+	}
+	
+	public void f2()
+	{
+		System.out.println("sdfsdfsfsf");
+		System.out.println("sdfsdfsfsf");
+	}
+	
+	
+	
 }
